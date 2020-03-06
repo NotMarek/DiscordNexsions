@@ -1,0 +1,5 @@
+requests
+random
+json
+os
+colorama
